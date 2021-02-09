@@ -1,0 +1,9 @@
+﻿Customer First Name,Customer Last Name,House Number,Street Name,City Name,Post Code,Account Number,Amount,Account Type
+Adam,Smith,14, Wilcot Street, Bath, B5 5RT,1234,5000,business
+Alice,Churchil,5, Cardigan Street, Birmingham, B4 7BD,1235,18000,savings
+Ali,Abdallah,44, Churchill Way West, Basingstoke, RG21 6YR,1236,40,business
+David,White,60, Holborn Viaduct, London, EC1A 2FD,1237,3200,savings
+Donlad,Troy,63, Wilcot Street,Bath,B5 5RT,1238,605.25,savings
+Michael,Thomson,44, Holborn Viaduct,London,EC1A 3FD,1239,-12.5,savings
+Adam,Smith,14, Wilcot Street, Bath, B5 5RT,1240,85000,savings
+Donlad,Troy,63, Wilcot Street,Bath,B5 5RT,1241,9565,business
