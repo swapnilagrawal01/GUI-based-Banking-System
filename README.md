@@ -1,2 +1,5 @@
 # GUI-based-Banking-System
-Python based banking System using tkinter GUI
+This is Python based banking System using tkinter GUI__
+It allows to perform the following tasks:__
+
+
